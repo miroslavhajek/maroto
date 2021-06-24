@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/johnfercher/maroto/pkg/consts"
-	"github.com/johnfercher/maroto/pkg/pdf"
+	"github.com/miroslavhajek/maroto/pkg/consts"
+	"github.com/miroslavhajek/maroto/pkg/pdf"
 	"os"
 	"time"
 )

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/johnfercher/maroto/internal"
-	"github.com/johnfercher/maroto/internal/mocks"
-	"github.com/johnfercher/maroto/pkg/props"
+	"github.com/miroslavhajek/maroto/internal"
+	"github.com/miroslavhajek/maroto/internal/mocks"
+	"github.com/miroslavhajek/maroto/pkg/props"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

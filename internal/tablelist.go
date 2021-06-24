@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"github.com/johnfercher/maroto/pkg/color"
-	"github.com/johnfercher/maroto/pkg/consts"
-	"github.com/johnfercher/maroto/pkg/props"
+	"github.com/miroslavhajek/maroto/pkg/color"
+	"github.com/miroslavhajek/maroto/pkg/consts"
+	"github.com/miroslavhajek/maroto/pkg/props"
 )
 
 // MarotoGridPart is the abstraction to deal with the gris system inside the table list
